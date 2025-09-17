@@ -1,198 +1,65 @@
 [
   {
+    "id": 2,
+    "status": true,
+    "title": "Camiseta",
+    "description": "Camiseta 100% algodón",
+    "price": 15000,
+    "thumbnail": "camiseta.jpg",
+    "stock": 20
+  },
+  {
     "id": 3,
     "status": true,
     "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
+    "description": "Camiseta 100% algodón",
+    "price": 15000,
+    "thumbnail": "camiseta.jpg",
+    "stock": 20
   },
   {
     "id": 4,
     "status": true,
     "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
+    "description": "Camiseta 100% algodón",
+    "price": 15000,
+    "thumbnail": "camiseta.jpg",
+    "stock": 20
   },
   {
     "id": 5,
     "status": true,
     "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
+    "description": "Camiseta 100% algodón",
+    "price": 15000,
+    "thumbnail": "camiseta.jpg",
+    "stock": 20
   },
   {
     "id": 6,
     "status": true,
     "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
+    "description": "Camiseta 100% algodón",
+    "price": 15000,
+    "thumbnail": "camiseta.jpg",
+    "stock": 20
   },
   {
     "id": 7,
     "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
+    "title": "Camiseta6",
+    "description": "Camiseta 100% algodón",
+    "price": 15000,
+    "thumbnail": "camiseta.jpg",
+    "stock": 20
   },
   {
     "id": 8,
     "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 9,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 10,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 11,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 12,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 13,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 14,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 15,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
-  },
-  {
-    "id": 16,
-    "status": true,
-    "title": "Camiseta",
-    "description": "Camiseta deportiva",
-    "code": "CAM123",
-    "price": 1500,
-    "stock": 50,
-    "category": "Ropa",
-    "thumbnails": [
-      "img1.jpg",
-      "img2.jpg"
-    ]
+    "title": "Camiseta9",
+    "description": "Camiseta 100% algodón",
+    "price": 15000,
+    "thumbnail": "camiseta.jpg",
+    "stock": 20
   }
 ]
